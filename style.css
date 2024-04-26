@@ -1,0 +1,16 @@
+body{
+    justify-content: center;
+    text-align: center;
+}
+
+form{
+    margin-top: 20%;
+}
+
+.letra{
+    font-size: 2rem;
+}
+
+.camp{
+    border-radius: 10px;
+}
